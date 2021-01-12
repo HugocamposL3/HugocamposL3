@@ -1,10 +1,4 @@
-# Olá 
-Meu nome é Hugo Campos, isso é um teste para que eu consiga colocar algum projeto meu no github, estou pegando um projeto do Marcelo Costanzo e tirando ele como base.
+## Hugo Lara Campos
 
-# Então vamos lá 
-Teste para colocar uma foto aqui:
 
-<a href="https://imgur.com/I3PayDJ"><img src="https://imgur.com/I3PayDJ.jpg" title="source: imgur.com" /></a>
-
-# Segunda parte
-Teste para colocar um link aqui: [link](https://www.youtube.com/watch?v=VcUM3I6oYXs).
+[![Gmail Badge](https://img.shields.io/badge/-camposhugo029@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelocm1995@gmail.com)]
