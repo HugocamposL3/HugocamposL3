@@ -26,7 +26,6 @@ Sou engenheiro eletricista formado pela Universidade Cruzeiro do Sul e trabalho 
 
 ![Gmail Badge](https://img.shields.io/badge/-camposhugo029@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelocm1995@gmail.com)
 
-![Snake animation](https://github.com/HugocamposL3/HugocamposL3/blob/output/github-contribution-grid-snake.svg)
            
                      
           
